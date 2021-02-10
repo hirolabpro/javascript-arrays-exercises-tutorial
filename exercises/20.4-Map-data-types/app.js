@@ -1,8 +1,9 @@
 
-let arrayOfStrings = ['1','5','45','34','343','34',6556,323];
+let arrayOfStrings = ['1','5','45','34','343','34',6556,323,true,{name:"daniel"}];
 
 let newArray = arrayOfStrings.map(function(val){
-	return (val);
+	return (typeof(val));
 });
 
 
+console.log(newArray);

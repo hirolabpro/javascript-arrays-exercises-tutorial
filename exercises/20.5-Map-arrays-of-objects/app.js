@@ -7,7 +7,9 @@ let people = [
 ];
 
 let simplifier = function(person){
-	return person.name;
+    let edad = new Date().getFullYear() - person.birthDate.getFullYear() 
+	return person.name + "-"+ edad;
 };
+
 
 console.log(people.map(simplifier));
