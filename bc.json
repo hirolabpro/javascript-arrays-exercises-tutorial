@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://dc23fcf4-dc75-4345-a3b4-f1d7062eac3c.ws-us03.gitpod.io",
+    "address": "https://turquoise-wombat-55punit7.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -487,7 +487,7 @@
         {
             "slug": "23-Parking-Lot",
             "title": "23-Parking-Lot",
-            "done": false,
+            "done": true,
             "path": "exercises/23-Parking-Lot",
             "translations": [
                 "es",
