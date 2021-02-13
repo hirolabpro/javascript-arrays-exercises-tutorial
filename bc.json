@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://turquoise-wombat-55punit7.ws-us03.gitpod.io",
+    "address": "https://beige-iguana-b7desc0z.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -190,7 +190,7 @@
         {
             "slug": "07.1-Finding-Waldo",
             "title": "07.1-Finding-Waldo",
-            "done": false,
+            "done": true,
             "path": "exercises/07.1-Finding-Waldo",
             "translations": [
                 "es",
@@ -212,7 +212,7 @@
         {
             "slug": "07.3-Flip-Array",
             "title": "07.3-Flip-Array",
-            "done": false,
+            "done": true,
             "path": "exercises/07.3-Flip-Array",
             "translations": [
                 "es",
@@ -223,7 +223,7 @@
         {
             "slug": "08.1-Mixed-array",
             "title": "08.1-Mixed-array",
-            "done": false,
+            "done": true,
             "path": "exercises/08.1-Mixed-array",
             "translations": [
                 "es",
@@ -234,7 +234,7 @@
         {
             "slug": "08.2-Count-On",
             "title": "08.2-Count-On",
-            "done": false,
+            "done": true,
             "path": "exercises/08.2-Count-On",
             "translations": [
                 "es",
@@ -256,7 +256,7 @@
         {
             "slug": "09.1-forEach-loop",
             "title": "09.1-forEach-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/09.1-forEach-loop",
             "translations": [
                 "es",
@@ -267,7 +267,7 @@
         {
             "slug": "10.1-Everything-is-awesome",
             "title": "10.1-Everything-is-awesome",
-            "done": false,
+            "done": true,
             "path": "exercises/10.1-Everything-is-awesome",
             "translations": [
                 "es",
@@ -289,7 +289,7 @@
         {
             "slug": "12-Delete-element",
             "title": "12-Delete-element",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Delete-element",
             "translations": [
                 "es",
@@ -300,7 +300,7 @@
         {
             "slug": "13-Merge-arrays",
             "title": "13-Merge-arrays",
-            "done": false,
+            "done": true,
             "path": "exercises/13-Merge-arrays",
             "translations": [
                 "es",
@@ -311,7 +311,7 @@
         {
             "slug": "14-Divide-and-Conquer",
             "title": "14-Divide-and-Conquer",
-            "done": false,
+            "done": true,
             "path": "exercises/14-Divide-and-Conquer",
             "translations": [
                 "es",
@@ -322,7 +322,7 @@
         {
             "slug": "15-Max-integer-from-array",
             "title": "15-Max-integer-from-array",
-            "done": false,
+            "done": true,
             "path": "exercises/15-Max-integer-from-array",
             "translations": [
                 "es",
@@ -333,7 +333,7 @@
         {
             "slug": "16-Foreach-min-val",
             "title": "16-Foreach-min-val",
-            "done": false,
+            "done": true,
             "path": "exercises/16-Foreach-min-val",
             "translations": [
                 "es",
@@ -344,7 +344,7 @@
         {
             "slug": "17-The-for-loop",
             "title": "17-The-for-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/17-The-for-loop",
             "translations": [
                 "es",
@@ -355,7 +355,7 @@
         {
             "slug": "18-Nested-arrays",
             "title": "18-Nested-arrays",
-            "done": false,
+            "done": true,
             "path": "exercises/18-Nested-arrays",
             "translations": [
                 "es",
@@ -366,7 +366,7 @@
         {
             "slug": "19-And-One-and-a-Two-and-a-Three",
             "title": "19-And-One-and-a-Two-and-a-Three",
-            "done": false,
+            "done": true,
             "path": "exercises/19-And-One-and-a-Two-and-a-Three",
             "translations": [
                 "es",
@@ -377,7 +377,7 @@
         {
             "slug": "20.1-Map-an-array",
             "title": "20.1-Map-an-array",
-            "done": false,
+            "done": true,
             "path": "exercises/20.1-Map-an-array",
             "translations": [
                 "es",
@@ -454,7 +454,7 @@
         {
             "slug": "21.2-Filter-done-tasks",
             "title": "21.2-Filter-done-tasks",
-            "done": false,
+            "done": true,
             "path": "exercises/21.2-Filter-done-tasks",
             "translations": [
                 "es",
@@ -476,7 +476,7 @@
         {
             "slug": "22-Matrix-Builder",
             "title": "22-Matrix-Builder",
-            "done": false,
+            "done": true,
             "path": "exercises/22-Matrix-Builder",
             "translations": [
                 "es",
@@ -498,7 +498,7 @@
         {
             "slug": "24-Making-a-ul",
             "title": "24-Making-a-ul",
-            "done": false,
+            "done": true,
             "path": "exercises/24-Making-a-ul",
             "translations": [
                 "es",
@@ -509,7 +509,7 @@
         {
             "slug": "25-Techno-beat",
             "title": "25-Techno-beat",
-            "done": false,
+            "done": true,
             "path": "exercises/25-Techno-beat",
             "translations": [
                 "es",

@@ -10,3 +10,5 @@ let tasks = [
 ];
 
 //your code here
+ let test = tasks.filter(item => item.done === true)
+ console.log(test);

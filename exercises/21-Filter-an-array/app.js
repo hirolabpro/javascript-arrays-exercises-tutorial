@@ -2,11 +2,11 @@ let allNames = ["Romario","Boby","Roosevelt","Emiliy", "Michael", "Greta", "Patr
 
 //your code here
 
-var onlyOdds = allNumbers.filter(function(name){
-    return (name )
-});
+var onlyOdds = allNames.filter((item=>{
+    return item[0] === "R"
+}))
 
 console.log(onlyOdds);
 
 
-console.log(resultingNames);
+//console.log(resultingNames);
